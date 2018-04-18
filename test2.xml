@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='frame1.png'>
+    <box top='1288' left='1226' width='54' height='117'>
+      <label>player</label>
+    </box>
+    <box top='1125' left='1358' width='46' height='93'>
+      <label>player</label>
+    </box>
+    <box top='1170' left='1823' width='46' height='89'>
+      <label>player</label>
+    </box>
+    <box top='1471' left='1545' width='79' height='142'>
+      <label>player</label>
+    </box>
+    <box top='1525' left='1593' width='75' height='151'>
+      <label>player</label>
+    </box>
+    <box top='1609' left='1769' width='75' height='163'>
+      <label>player</label>
+    </box>
+    <box top='1343' left='1758' width='58' height='122'>
+      <label>player</label>
+    </box>
+    <box top='1388' left='1991' width='62' height='131'>
+      <label>player</label>
+    </box>
+    <box top='1575' left='2163' width='103' height='198'>
+      <label>player</label>
+    </box>
+    <box top='1322' left='2137' width='69' height='143'>
+      <label>player</label>
+    </box>
+    <box top='1652' left='2509' width='84' height='164'>
+      <label>player</label>
+    </box>
+    <box top='1457' left='2581' width='75' height='148'>
+      <label>player</label>
+    </box>
+    <box top='1339' left='2488' width='70' height='131'>
+      <label>player</label>
+    </box>
+    <box top='1156' left='2186' width='53' height='110'>
+      <label>player</label>
+    </box>
+    <box top='1189' left='2366' width='61' height='110'>
+      <label>player</label>
+    </box>
+    <box top='1315' left='2727' width='61' height='113'>
+      <label>player</label>
+    </box>
+    <box top='1289' left='2717' width='54' height='100'>
+      <label>player</label>
+    </box>
+    <box top='1376' left='2988' width='66' height='128'>
+      <label>player</label>
+    </box>
+    <box top='1487' left='3019' width='75' height='136'>
+      <label>player</label>
+    </box>
+    <box top='1314' left='3323' width='64' height='112'>
+      <label>player</label>
+    </box>
+    <box top='1652' left='3567' width='120' height='209'>
+      <label>player</label>
+    </box>
+    <box top='1591' left='3696' width='105' height='194'>
+      <label>player</label>
+    </box>
+  </image>
+  <image file='frame10.png'>
+    <box top='1237' left='3051' width='52' height='102'>
+      <label>player</label>
+    </box>
+    <box top='1386' left='2525' width='67' height='142'>
+      <label>player</label>
+    </box>
+    <box top='1362' left='2381' width='70' height='148'>
+      <label>player</label>
+    </box>
+    <box top='1249' left='2303' width='55' height='117'>
+      <label>player</label>
+    </box>
+    <box top='1731' left='2375' width='84' height='193'>
+      <label>player</label>
+    </box>
+    <box top='1396' left='1985' width='61' height='139'>
+      <label>player</label>
+    </box>
+    <box top='1430' left='1817' width='72' height='151'>
+      <label>player</label>
+    </box>
+    <box top='1549' left='1572' width='92' height='176'>
+      <label>player</label>
+    </box>
+    <box top='1356' left='1391' width='72' height='144'>
+      <label>player</label>
+    </box>
+    <box top='1359' left='1188' width='74' height='144'>
+      <label>player</label>
+    </box>
+    <box top='1226' left='1179' width='73' height='129'>
+      <label>player</label>
+    </box>
+    <box top='1312' left='1071' width='77' height='137'>
+      <label>player</label>
+    </box>
+    <box top='1099' left='1118' width='44' height='101'>
+      <label>player</label>
+    </box>
+    <box top='1061' left='1153' width='45' height='92'>
+      <label>player</label>
+    </box>
+    <box top='1227' left='808' width='69' height='125'>
+      <label>player</label>
+    </box>
+    <box top='1152' left='641' width='62' height='118'>
+      <label>player</label>
+    </box>
+    <box top='1235' left='269' width='79' height='143'>
+      <label>player</label>
+    </box>
+    <box top='1511' left='566' width='98' height='169'>
+      <label>player</label>
+    </box>
+    <box top='1469' left='552' width='93' height='146'>
+      <label>player</label>
+    </box>
+    <box top='1323' left='24' width='75' height='160'>
+      <label>player</label>
+    </box>
+    <box top='1128' left='1938' width='57' height='106'>
+      <label>player</label>
+    </box>
+  </image>
+  <image file='frame11.png'>
+    <box top='1298' left='3160' width='73' height='123'>
+      <label>player</label>
+    </box>
+    <box top='1462' left='2458' width='85' height='149'>
+      <label>player</label>
+    </box>
+    <box top='1402' left='2290' width='87' height='153'>
+      <label>player</label>
+    </box>
+    <box top='1300' left='2146' width='83' height='135'>
+      <label>player</label>
+    </box>
+    <box top='1152' left='1904' width='73' height='127'>
+      <label>player</label>
+    </box>
+    <box top='1334' left='1678' width='89' height='139'>
+      <label>player</label>
+    </box>
+    <box top='1456' left='1532' width='109' height='167'>
+      <label>player</label>
+    </box>
+    <box top='1634' left='1630' width='103' height='193'>
+      <label>player</label>
+    </box>
+    <box top='1622' left='1220' width='133' height='201'>
+      <label>player</label>
+    </box>
+    <box top='1478' left='1226' width='109' height='167'>
+      <label>player</label>
+    </box>
+    <box top='1148' left='1002' width='85' height='115'>
+      <label>player</label>
+    </box>
+    <box top='1328' left='944' width='87' height='145'>
+      <label>player</label>
+    </box>
+    <box top='1422' left='698' width='115' height='179'>
+      <label>player</label>
+    </box>
+    <box top='1586' left='642' width='109' height='175'>
+      <label>player</label>
+    </box>
+    <box top='1174' left='268' width='107' height='153'>
+      <label>player</label>
+    </box>
+    <box top='1532' left='202' width='105' height='203'>
+      <label>player</label>
+    </box>
+    <box top='1352' left='4' width='135' height='209'>
+      <label>player</label>
+    </box>
+  </image>
+  <image file='frame12.png'>
+    <box top='940' left='316' width='79' height='127'>
+      <label>player</label>
+    </box>
+    <box top='1128' left='214' width='91' height='165'>
+      <label>player</label>
+    </box>
+    <box top='1210' left='274' width='101' height='153'>
+      <label>player</label>
+    </box>
+    <box top='1224' left='380' width='105' height='167'>
+      <label>player</label>
+    </box>
+    <box top='1136' left='452' width='75' height='129'>
+      <label>player</label>
+    </box>
+    <box top='1172' left='550' width='81' height='143'>
+      <label>player</label>
+    </box>
+    <box top='1052' left='696' width='61' height='105'>
+      <label>player</label>
+    </box>
+    <box top='1452' left='858' width='99' height='163'>
+      <label>player</label>
+    </box>
+    <box top='1178' left='884' width='83' height='133'>
+      <label>player</label>
+    </box>
+    <box top='1006' left='1150' width='73' height='107'>
+      <label>player</label>
+    </box>
+    <box top='1320' left='1306' width='93' height='153'>
+      <label>player</label>
+    </box>
+    <box top='1246' left='1752' width='85' height='135'>
+      <label>player</label>
+    </box>
+    <box top='1188' left='2954' width='75' height='111'>
+      <label>player</label>
+    </box>
+    <box top='1186' left='1754' width='67' height='117'>
+      <label>player</label>
+    </box>
+    <box top='1146' left='1746' width='65' height='105'>
+      <label>player</label>
+    </box>
+  </image>
+  <image file='frame13.png'>
+    <box top='988' left='374' width='69' height='101'>
+      <label>player</label>
+    </box>
+    <box top='990' left='506' width='71' height='113'>
+      <label>player</label>
+    </box>
+    <box top='1064' left='596' width='75' height='121'>
+      <label>player</label>
+    </box>
+    <box top='1202' left='546' width='91' height='143'>
+      <label>player</label>
+    </box>
+    <box top='1330' left='550' width='101' height='149'>
+      <label>player</label>
+    </box>
+    <box top='1216' left='766' width='91' height='145'>
+      <label>player</label>
+    </box>
+    <box top='1084' left='688' width='85' height='129'>
+      <label>player</label>
+    </box>
+    <box top='1190' left='932' width='89' height='145'>
+      <label>player</label>
+    </box>
+    <box top='1068' left='1076' width='55' height='99'>
+      <label>player</label>
+    </box>
+    <box top='990' left='1058' width='55' height='83'>
+      <label>player</label>
+    </box>
+    <box top='1148' left='1276' width='71' height='119'>
+      <label>player</label>
+    </box>
+    <box top='1028' left='1358' width='67' height='115'>
+      <label>player</label>
+    </box>
+    <box top='1444' left='1394' width='91' height='169'>
+      <label>player</label>
+    </box>
+    <box top='1332' left='1658' width='75' height='137'>
+      <label>player</label>
+    </box>
+    <box top='1218' left='1730' width='67' height='115'>
+      <label>player</label>
+    </box>
+    <box top='1180' left='1694' width='55' height='113'>
+      <label>player</label>
+    </box>
+    <box top='1144' left='1778' width='55' height='97'>
+      <label>player</label>
+    </box>
+    <box top='1230' left='2990' width='71' height='115'>
+      <label>player</label>
+    </box>
+  </image>
+  <image file='frame14.png'>
+    <box top='1222' left='3062' width='71' height='121'>
+      <label>player</label>
+    </box>
+    <box top='1500' left='2066' width='105' height='167'>
+      <label>player</label>
+    </box>
+    <box top='1376' left='1986' width='87' height='145'>
+      <label>player</label>
+    </box>
+    <box top='1228' left='1940' width='65' height='125'>
+      <label>player</label>
+    </box>
+    <box top='1190' left='1874' width='67' height='117'>
+      <label>player</label>
+    </box>
+    <box top='1158' left='1918' width='65' height='101'>
+      <label>player</label>
+    </box>
+    <box top='1046' left='1718' width='63' height='99'>
+      <label>player</label>
+    </box>
+    <box top='1000' left='1548' width='51' height='85'>
+      <label>player</label>
+    </box>
+    <box top='1122' left='1514' width='63' height='109'>
+      <label>player</label>
+    </box>
+    <box top='1192' left='1442' width='75' height='121'>
+      <label>player</label>
+    </box>
+    <box top='1374' left='1392' width='91' height='151'>
+      <label>player</label>
+    </box>
+    <box top='1272' left='1272' width='93' height='131'>
+      <label>player</label>
+    </box>
+    <box top='1240' left='1216' width='81' height='127'>
+      <label>player</label>
+    </box>
+    <box top='1088' left='1286' width='73' height='105'>
+      <label>player</label>
+    </box>
+    <box top='1018' left='1246' width='69' height='109'>
+      <label>player</label>
+    </box>
+    <box top='1096' left='964' width='75' height='117'>
+      <label>player</label>
+    </box>
+    <box top='1104' left='882' width='71' height='113'>
+      <label>player</label>
+    </box>
+    <box top='968' left='988' width='55' height='89'>
+      <label>player</label>
+    </box>
+    <box top='1010' left='212' width='79' height='119'>
+      <label>player</label>
+    </box>
+    <box top='1142' left='124' width='107' height='147'>
+      <label>player</label>
+    </box>
+  </image>
+  <image file='frame2.png'>
+  </image>
+  <image file='frame3.png'>
+  </image>
+  <image file='frame4.png'>
+  </image>
+  <image file='frame5.png'>
+  </image>
+  <image file='frame6.png'>
+  </image>
+  <image file='frame7.png'>
+  </image>
+  <image file='frame8.png'>
+  </image>
+  <image file='frame9.png'>
+  </image>
+</images>
+</dataset>
